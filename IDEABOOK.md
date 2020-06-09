@@ -27,11 +27,11 @@ Users can rate predifined points of interest / locations on a map.
 - Business hours: Open from ... to ...
 - Type: 
 - Tentrum tolerance level:
--- 0: office,
--- 1: library, hospital, church,
--- 3: shop,
--- 4: street,
--- 5: no restriction
+    - 0: office,
+    - 1: library, hospital, church,
+    - 3: shop,
+    - 4: street,
+    - 5: no restriction
 - Crowd: XS (less than 4 people), S (4-8 people), M (9-20 people), L (21-100 people), XL (100+ people)
 - Autistic hours ? Y/N
 - Triggers (public announcements, music, loud cars, sudden noises, children screaming,...)

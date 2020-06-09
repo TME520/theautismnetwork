@@ -87,5 +87,7 @@ Users can rate predifined points of interest / locations on a map.
     - Slippery,
     - Moving machinery,
     - Heights.
+- CCTV:
+    - Yes / No
 ## Alerts
 - Eloping child alert

@@ -22,15 +22,16 @@ This file contains ideas - features, partnerships, anything - that might or migh
 - Current school
 ## Map
 Users can rate predifined points of interest / locations on a map.
-- Name
-- Address
-- Business hours
-- Type
-- Crowd
+- Name: The name of the place
+- Address: Postal address
+- Business hours: Open from ... to ...
+- Type: 
+- Tentrum tolerance level: 0: office, 1: library, hospital, church, 3: shop, 4: street, 5: no restriction
+- Crowd: XS (less than 4 people), S (4-8 people), M (9-20 people), L (21-100 people), XL (100+ people)
 - Autistic hours ? Y/N
 - Triggers (public announcements, music, loud cars, sudden noises, children screaming,...)
 - Accessibility (ramps, elevators,...)
 - Quiet zone availability Y/N
-- Eloping safety level (fences, direct road access,...)
+- Safety (fences, direct road access,...)
 ## Alerts
 - Eloping child alert

@@ -24,19 +24,68 @@ This file contains ideas - features, partnerships, anything - that might or migh
 Users can rate predifined points of interest / locations on a map.
 - Name: The name of the place
 - Address: Postal address
-- Business hours: Open from ... to ...
-- Type: 
+- Business hours:
+    - Open from xx to yy
+- Type:
+    - Shopping centre
+    - Supermarker
+    - Gym
+    - Library
+    - Doctor
+    - Indoor playground
+    - Outdoor playground
+    - Swimming pool
+    - Restaurant
+    - Fast food
+    - Hospital
 - Tentrum tolerance level:
     - 0: office,
     - 1: library, hospital, church,
     - 3: shop,
     - 4: street,
     - 5: no restriction
-- Crowd: XS (less than 4 people), S (4-8 people), M (9-20 people), L (21-100 people), XL (100+ people)
-- Autistic hours ? Y/N
-- Triggers (public announcements, music, loud cars, sudden noises, children screaming,...)
-- Accessibility (ramps, elevators,...)
-- Quiet zone availability Y/N
-- Safety (fences, direct road access,...)
+- Crowd:
+    - XS (less than 4 people),
+    - S (4-8 people),
+    - M (9-20 people),
+    - L (21-100 people),
+    - XL (100+ people).
+- Autistic hours ?
+    - Yes / No
+- Triggers:
+    - public announcements,
+    - background music,
+    - loud engines,
+    - sudden noises,
+    - children screaming,
+    - dogs,
+    - people cheering,
+    - people clapping,
+    - strobbing lights,
+    - loud fans,
+    - animatronics,
+    - noise,
+    - birds,
+    - insects,
+    - airplanes,
+    - helicopters.
+- Accessibility:
+    - ramps,
+    - elevators,
+    - automatic doors,
+    - stairs only,
+    - revolving doors.
+- Quiet zone available ?
+    - Yes / No
+- Safety:
+    - Direct road access,
+    - Partial fencing,
+    - Complete fencing,
+    - Fire,
+    - Deep water,
+    - Pit,
+    - Slippery,
+    - Moving machinery,
+    - Heights.
 ## Alerts
 - Eloping child alert

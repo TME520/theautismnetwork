@@ -21,7 +21,7 @@ This file contains ideas - features, partnerships, anything - that might or migh
 - Birth date
 - Current school
 ## Map
-Users can rate predifined points of interest / locations on a map.
+Users can rate predefined points of interest / locations on a map.
 - Name: The name of the place
 - Address: Postal address
 - Business hours:

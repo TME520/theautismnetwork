@@ -5,6 +5,7 @@ This file contains ideas - features, partnerships, anything - that might or migh
 - Email
 - Facebook
 - Google
+- Apple / iCloud
 ### User account types
 - parent: for parents of autistic persons
 - carer: carers helping with day-to-day life or at school

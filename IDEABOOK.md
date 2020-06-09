@@ -38,7 +38,7 @@ Users can rate predifined points of interest / locations on a map.
     - Restaurant
     - Fast food
     - Hospital
-- Tentrum tolerance level:
+- Tantrum tolerance level:
     - 0: office,
     - 1: library, hospital, church,
     - 3: shop,

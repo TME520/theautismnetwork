@@ -94,3 +94,14 @@ Users can rate predefined points of interest / locations on a map.
     - Yes / No
 ## Alerts
 - Eloping child alert
+## Weekend planner
+Plan a family trip in autistic-friendly places:
+- Accessibility,
+- QUiet zones availability,
+- Safety score,
+- Trained personel availability,
+- Autistic hours,
+- Minimise triggers,
+- Best tantrum tolerance level,
+- Minimum crowd,
+- Good variety of places types in order to ensure a pleasant experience for everyone.

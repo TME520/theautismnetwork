@@ -53,6 +53,8 @@ Users can rate predefined points of interest / locations on a map.
     - XL (100+ people).
 - Autistic hours ?
     - Yes / No
+- Trained personel available ?
+    - Yes / No
 - Triggers:
     - public announcements,
     - background music,

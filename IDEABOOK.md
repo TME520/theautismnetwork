@@ -39,6 +39,8 @@ Users can rate predefined points of interest / locations on a map.
     - Restaurant
     - Fast food
     - Hospital
+- Favorite ?
+    - Yes / No
 - Tantrum tolerance level:
     - 0: office,
     - 1: library, hospital, church,
@@ -93,11 +95,11 @@ Users can rate predefined points of interest / locations on a map.
 - CCTV:
     - Yes / No
 ## Alerts
-- Eloping child alert
+- Eloping child alert: a notification pops up on every nearby users phone
 ## Weekend planner
 Plan a family trip in autistic-friendly places:
 - Accessibility,
-- QUiet zones availability,
+- Quiet zones availability,
 - Safety score,
 - Trained personel availability,
 - Autistic hours,

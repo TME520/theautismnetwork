@@ -42,3 +42,10 @@
 - ABA at Home
 - LetMeTalk: Free AAC Talker
 - Visual Schedules and Social Stories
+## LinkedIn: "autism"
+- https://www.linkedin.com/company/autism-spectrum-australia/
+- https://www.linkedin.com/company/autism-awareness/
+- https://www.linkedin.com/company/autism-association-of-western-australia-inc/
+- https://www.linkedin.com/company/autism-learning-partners/
+- https://www.linkedin.com/company/autism-home-support-services-inc/
+- https://www.linkedin.com/company/disability-services-australia/

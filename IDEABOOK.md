@@ -22,6 +22,7 @@ This file contains ideas - features, partnerships, anything - that might or migh
 - Known triggers
 - Known allergies
 - Soothing methods (favorite toys, favorite cartoons)
+- Favorite locations (selected from Favorites)
 ## Map
 Users can rate predefined points of interest / locations on a map.
 - Name: The name of the place

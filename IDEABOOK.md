@@ -111,3 +111,8 @@ Plan a family trip in autistic-friendly places:
 - Good variety of places types in order to ensure a pleasant experience for everyone.
 ## Shopping
 A gallery of links to NDIS-approved autism-related products and services sellers.
+## Service providers recommendations
+- Speech therapist
+- OT
+- Psychologist
+- Carers

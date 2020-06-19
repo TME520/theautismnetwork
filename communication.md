@@ -8,7 +8,7 @@ Statistics and ready-made sentences for efficient communication.
 - "Raising awareness about autism is key to building a truly inclusive society."
 - "We know from experience the challenges that families dealing with autism faces daily."
 - "Creating this map will make us stronger as a community. It will give us statistics, evaluations and ratings that will be used as leverage to promote an autistic-friendly society."
-- "In 2018 there were 205,200 Australians with autism, a 25.1% increase from the 164000 with the condition in 2015." (source: ABS)
+- "In 2018 there were 205200 Australians with autism, a 25.1% increase from the 164000 with the condition in 2015." (source: ABS)
 ## Hashtags
 ```
 #autism, #autismawareness, #autismacceptance, #autismspeaks,

@@ -1,6 +1,9 @@
 # Communication elements
 Statistics and ready-made sentences for efficient communication.
 ## Statistics
+- [Australian Bureau of Statistics](https://www.abs.gov.au)
+    - https://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/4430.0Main+Features102018#:~:text=Autism%20in%20Australia,1.3%25%20and%200.4%25%20respectively
+    - https://www.abs.gov.au/ausstats/abs@.nsf/0/C258C88A7AA5A87ECA2568A9001393E8?Opendocument
 ## Sentences
 - "Raising awareness about autism is key to building a truly inclusive society."
 - "We know from experience the challenges that families dealing with autism faces daily."

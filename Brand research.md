@@ -49,3 +49,11 @@
 - https://www.linkedin.com/company/autism-learning-partners/
 - https://www.linkedin.com/company/autism-home-support-services-inc/
 - https://www.linkedin.com/company/disability-services-australia/
+## Facebook groups
+- Autism Parents Australia: https://www.facebook.com/groups/autismparentsaustralia/
+- Victoria Autism Parent Social/Support Group: https://www.facebook.com/groups/308663722514316/
+- Autism Dads Australia: https://www.facebook.com/groups/AutismDadsAustralia/
+- Autism Mums Of Australia: https://www.facebook.com/AutismMumsOfAustralia/
+- Parents of Children with Autism Australia: https://www.facebook.com/AutismSupportAustralia/
+- Autism Awareness Australia: https://www.facebook.com/AutismAwarenessAustralia/
+- Aussie Autism Parents: https://www.facebook.com/AussieAutismParents/

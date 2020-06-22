@@ -11,10 +11,11 @@ Statistics and ready-made sentences for efficient communication.
 - "In 2018 there were 205200 Australians with autism, a 25.1% increase from the 164000 with the condition in 2015." (source: ABS)
 ## Hashtags
 ```
-#autism, #autismawareness, #autismacceptance, #autismspeaks,
-#autistic, #parentingautism, #autismmum, #autismdad,
-#autismspectrum, #asd, #aspergers, #aspergerssyndrome,
-#autismstrong, #autismfamily, #autismsuportandawareness,
-#autismcommunity, #specialneeds, #autismfriendly, #differentnotless,
-#neurodiversity
+#autism #autismawareness #autismacceptance #autismspeaks
+#autistic #parentingautism #autismmum #autismdad
+#autismspectrum #asd #aspergers #aspergerssyndrome
+#autismstrong #autismfamily #autismsupportandawareness
+#autismcommunity #specialneeds #autismfriendly #differentnotless
+#neurodiversity #autismeducation #autismspeaks #autismparent
+#autismlife #autismparents #autismsupport #autismadvocate
 ```
